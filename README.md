@@ -5,7 +5,8 @@
 由@asdvb38汉化
 
 ## 快速上手
-前往 [发布页](https://github.com/BJDubb/SirenSharp/releases/latest) 下载最新版本安装包。
+汉化版前往 [发布页]((https://github.com/asdvb38/SirenSharp-CN/releases/tag/SirenSharp-CN)) 下载
+官方原版前往 [发布页](https://github.com/BJDubb/SirenSharp/releases/latest) 下载最新版本安装包。
 - **推荐方案**：运行安装程序 `.exe`。会自动安装软件，并在后台静默更新，新版本无需重新下载。
 - **便携版**：解压便携压缩包 `.zip`，直接运行 `SirenSharp.exe`。无自动更新功能，升级需重新下载完整安装包。
 
