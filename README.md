@@ -14,8 +14,9 @@
 
 ## 使用教程
 前往 [官方文档](https://docs.sirensharp.dev/overview/what-is-sirensharp) 学习 SirenSharp 使用方法
-B站/YouTube 视频教程点这里：[点击查看](https://youtu.be/oTv3mVHZAK0)
+YouTube 视频教程点这里：[点击查看](https://youtu.be/oTv3mVHZAK0)
 
 ## 赞助支持
 捐赠赞助，助力 SirenSharp 持续开发更新
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T0L425H)
